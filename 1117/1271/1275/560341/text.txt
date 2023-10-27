@@ -490,7 +490,7 @@
     <div class="share">
         <ul>
             <li><a href="http://www.facebook.com/share.php?u=https://www.kmdn.gov.tw/1117/1271/1275/560236/" title="facebook"><img src="https://www.kmdn.gov.tw/Content/A/images/basic/icon_facebook.png" alt="facebook"></a></li>
-            <li><a href="https://twitter.com/share?text=秋語喃喃&url=https://www.kmdn.gov.tw/1117/1271/1275/560236/" title="twitter"><img src="https://www.kmdn.gov.tw/Content/A/images/basic/icon_twitter.png" alt="twitter"></a></li>
+            <li><a href="https://twitter.com/share?text=地理教學的真諦&url=https://www.kmdn.gov.tw/1117/1271/1275/560236/" title="twitter"><img src="https://www.kmdn.gov.tw/Content/A/images/basic/icon_twitter.png" alt="twitter"></a></li>
             <li><a href="http://line.me/R/msg/text/?https://www.kmdn.gov.tw/1117/1271/1275/560236/" title="line"><img src="https://www.kmdn.gov.tw/Content/A/images/basic/icon_line.png" alt="line"></a></li>
         </ul>
     </div>
